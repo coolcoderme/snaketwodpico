@@ -7,3 +7,8 @@ I found the python code here on page 23 - [https://datasheets.raspberrypi.com/pi
 
 I replaced pico w and hello world with the code in the first link. 
 
+
+final test pic - 
+
+
+![image](https://github.com/user-attachments/assets/3736bf0c-15af-4bf0-8649-aafea1dd8c1b)
